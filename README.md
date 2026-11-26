@@ -73,7 +73,9 @@ Na tela de login do aplicativo, utilize o usuário pré-cadastrado no banco de d
 - Senha: 123456
 
 
-DOCUMENTAÇÃO, PESQUISA DE CAMPO E PROTÓTIPO
--------------------------------------------
-Os entregáveis complementares exigidos na especificação do projeto estão disponíveis na pasta documentacao/:
-- Relatório Técnico: Contém a justificativa do tema baseada na pesquisa de campo realizada com profissionais da área da educação e o protótipo de baixa fidelidade das telas integradas à API.
+## DOCUMENTAÇÃO, PESQUISA DE CAMPO E PROTÓTIPO
+
+Os entregáveis complementares exigidos na elaboração do projeto estão disponíveis na pasta `documentação/`:
+
+- **Relatório Técnico:** Contém a justificativa do tema baseada na pesquisa de campo realizada com profissionais da área da educação e o protótipo de baixa fidelidade das telas integradas à API.
+- **Capturas de Tela (Evidências do Sistema):** Prints das telas do aplicativo em execução integrado à API (`login.png`, `horarios.png`, `frequencia.png` e `perfil.png`).
