@@ -11,7 +11,7 @@ INTEGRANTES DO GRUPO - Grupo do PIM
 --------------------
 
 1. Sophia Beringheri Lario — RA: [813168-1]
-2.Gabriel Akamine - RA: [818477]
+2. Gabriel Akamine - RA: [818477]
 3.  Igor Silva — RA: [818253-1]
 4. Juan Contrera — RA: [818255-0]
 5. Caio Ignacio — RA: [813198-4]
